@@ -1,13 +1,13 @@
-# MentorWave
+# MoneyTrack
 
-Проект MentorWave разработан на Django.
+Проект MoneyTrack разработан на Django.
 
 ## Установка и настройка
 
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/BigVadya/App.git
+git clone https://github.com/BigVadya/FoxCourse.git
 ```
 
 2. Установите зависимости:
